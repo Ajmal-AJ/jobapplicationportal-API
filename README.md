@@ -15,18 +15,19 @@ Ensure you have the following installed on your local system:
 2. Create and Activate a Virtual Environment
    
      ```python -m venv env```
+   
      ```env\Scripts\activate```
    
-3. Install Dependencies
+4. Install Dependencies
    
    ```pip install -r requirements.txt```
    
-4. Apply Migrations
+5. Apply Migrations
    
      ``` python manage.py makemigrations ```
      ``` python manage.py migrate ```
    
-5. Run the Server
+6. Run the Server
 
  ``` python manage.py runserver ```
  
