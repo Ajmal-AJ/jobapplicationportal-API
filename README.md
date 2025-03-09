@@ -25,9 +25,10 @@ Ensure you have the following installed on your local system:
 5. Apply Migrations
    
      ``` python manage.py makemigrations ```
+   
      ``` python manage.py migrate ```
    
-6. Run the Server
+7. Run the Server
 
  ``` python manage.py runserver ```
  
